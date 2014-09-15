@@ -95,4 +95,4 @@ An SSH key is how github can identify you without you having to enter your usern
 
 ## Congrats! 
 
-Phew! That was a lot of work, but now you are all set to use git and github
+Phew! That was a lot of work, but now you are all set to use git and github.
