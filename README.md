@@ -79,19 +79,17 @@ An SSH key is how github can identify you without you having to enter your usern
 
 * You'll get prompted to type the password to your computer twice (the letters won't actually show up when you type. Don't worry, it's just for security purposes).
 
-* Once the SSH key generation is done, you'll enter `ssh-add ~/.ssh/id_rsa`
-
-* Then `pbcopy < ~/.ssh/id_rsa.pub` which just adds your SSH key to your clipboard.
+* Once the SSH key generation is done, enter `ssh-add ~/.ssh/id_rsa` then `pbcopy < ~/.ssh/id_rsa.pub` (this copies your SSH key to your clipboard).
 
 * Then you'll need to go to your github account online, and in the top right corner select account settings (the symbol with the cog). 
 
-  * In the left toolbar, you'll select SSH Keys. Then you'll select Add SSH Key.
+* In the left toolbar, select "SSH Keys", then click the button "Add SSH Key".
 
-  * Enter the name "Github SSH" and then paste your SSH key into the key field. 
+* Enter the name "Github SSH" under "Title" and then paste your SSH key into the "Key" field. 
 
-  * Click the green Add Key button.
+* Click the green Add Key button.
 
-  * Go back to terminal and verify that you successfully added the SSH key, `ssh -T git@github.com`. You should get back `Hi username! You've successfully authenticated, but GitHub does not provide shell access.`
+* Go back to terminal and verify that you successfully added the SSH key, `ssh -T git@github.com`. You should get back `Hi username! You've successfully authenticated, but GitHub does not provide shell access.`
 
 ## Congrats! 
 
