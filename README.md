@@ -19,11 +19,11 @@ Go to [Github](github.com), and fill out the form to create a username and click
 
 `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
 
-into your command line. Once downloading is complete, enter `brew doctor` to make sure you don't have any conflicts.
+into your command line. Once downloading is complete, enter `brew doctor` to make sure that you don't have any conflicts.
 
 ###3. Update Git
 
-To see what your current version is, enter `git version` into your command line. To update and make sure we are using the most current version, enter `brew install git`. Once the download is complete, you'll want to open a new terminal tab, and reenter `git version` to compare and see if we have a new version number.
+To see what your current version is, enter `git version` into your command line. To update and make sure you are using the most current version, enter `brew install git`.
 
 ###4. Git Tab Autocompletion
 
@@ -41,16 +41,16 @@ a .gitconfig file is a file that automatically logs you in to git through termin
 
 * Copy and paste the [Flatiron School Gitconfig](https://github.com/flatiron-school/dotfiles/blob/master/gitconfig) into this file
 
-* You'll going to need to replace some values with your own information from Github including:
+* You're going to need to replace some values with your own information from Github including:
 
-  * the email address that you used to register for github in three different places where you see `<github email address>`. You'll be replacing the whole thing - you don't want any of the < > angle brackets around the things you replace, like your email, username, or tokens.
+  * the email address that you used to register for github. This is in three different places where you see `<github email address>`. You'll be replacing the whole thing, you don't want any of the < > angle brackets around the things you replace.
 
-  * Your github username and API token. This is how you find your API token on github.com:
+  * Your github username and API token. This is how you find and generate API tokens on github.com:
 
     * Click settings in the top right corner (it's an icon that looks like a cog), it should bring up a menu on the left side. 
-    * Click applications in that menu.
-    * Click "Generate new token" next to "Personal access tokens". 
-    * Enter 'flatiron-camp' under "Token description" then click the green "Generate token" button. 
+    * Click "Applications" in that menu.
+    * Next to "Personal access tokens" you should see a button for "Generate new token". Click on it. 
+    * Under "Token description" enter 'flatiron-camp', then click the green "Generate token" button. 
     * Once it refreshes the screen and displays your token (a series of randomly generated letters and numbers), you'll want to copy that and paste it into your .gitconfig file. 
 
 * Now scroll all the way to the top of the file and after [core], you'll want to replace the text <YOUR_HOME_DIRECTORY> with the name of your computer user. You can type pwd in terminal to figure out what you need to type in!
