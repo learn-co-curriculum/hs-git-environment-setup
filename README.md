@@ -89,7 +89,7 @@ An SSH key is how github can identify you without you having to enter your usern
 
 * Click the green Add Key button.
 
-* Go back to terminal and verify that you successfully added the SSH key, `ssh -T git@github.com`. You should get back `Hi username! You've successfully authenticated, but GitHub does not provide shell access.`
+* Go back to terminal and verify that you successfully added the SSH key by typing `ssh -T git@github.com`. You should get back `Hi username! You've successfully authenticated, but GitHub does not provide shell access.`
 
 ## Congrats! 
 
