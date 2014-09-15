@@ -51,7 +51,7 @@ a .gitconfig file is a file that automatically logs you in to git through termin
     * Click "Applications" in that menu.
     * Next to "Personal access tokens" you should see a button for "Generate new token". Click on it. 
     * Under "Token description" enter 'flatiron-camp', then click the green "Generate token" button. 
-    * Once it refreshes the screen and displays your token (a series of randomly generated letters and numbers), you'll want to copy that and paste it into your .gitconfig file. 
+    * Once the screen refreshes you'll see a token (a series of randomly generated letters and numbers). Copy that and paste it into your .gitconfig file, replacing `<API token>`. (It's in a couple of places.) 
 
 * Now scroll all the way to the top of the file and after [core], you'll want to replace the text <YOUR_HOME_DIRECTORY> with the name of your computer user. You can type pwd in terminal to figure out what you need to type in!
 
