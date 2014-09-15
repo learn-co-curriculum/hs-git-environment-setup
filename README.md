@@ -5,13 +5,13 @@
   type: environment-setup 
 ---
 
-## Ready set git!
+## Ready, set, git!
 
-Git and Github are very important to the life of a developer. Essentially they help you save all of your work and share it with other coders. You'll be learning a lot more about git, but first let's get you set up.
+Git and github are very important to the life of a developer. Essentially they help you save all of your work and share it with other coders. You'll be learning a lot more about git and github, but first let's get you set up.
 
 ###1. Set Up a Github Account
 
-Go to Github, and fill out the form to create a username and click signup. You will need to then check your email to verify your new account by clicking a link in an email.
+Go to Github.com, and fill out the form to create a username and click signup. You will need to then check your email to verify your new account by clicking a link in an email.
 
 ###2. Download Homebrew
 
