@@ -11,11 +11,11 @@ Git and github are very important to the life of a developer. Essentially they h
 
 ###1. Set Up a Github Account
 
-Go to Github.com, and fill out the form to create a username and click signup. You will need to then check your email to verify your new account by clicking a link in an email.
+Go to (Github)[github.com], and fill out the form to create a username and click signup. You will need to then check your email to verify your new account by clicking a link in an email.
 
 ###2. Download Homebrew
 
-Homebrew(http://brew.sh/.). is an awesome package manager that makes downloading lots of software really easy. Download Homebrew by entering:
+[Homebrew](http://brew.sh/.) is an awesome package manager that makes downloading lots of software really easy. Download Homebrew by entering:
 
 `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
 
