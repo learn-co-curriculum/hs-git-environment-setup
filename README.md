@@ -61,7 +61,7 @@ a .gitconfig file is a file that automatically logs you in to git through termin
 
 A .gitignore file basically tells Github to not keep track of certain files.
 
-* Make sure you are in the home directory. You should see this `~`. 
+* Make sure you are in the home directory. You should see this `~` in your command line. 
 
 * Enter `touch .gitconfig` then `open .gitconfig`
 
@@ -69,13 +69,13 @@ A .gitignore file basically tells Github to not keep track of certain files.
 
 ###7. Set Up Github SSH Keys
 
-An SSH key is how github can identify you without you having to enter your username and password every single time you want to push code up to the server. Github has a great online documention here.
+An SSH key is how github can identify you without you having to enter your username and password every single time you want to push code up to the server. Github has a great online documention [here](https://help.github.com/articles/generating-ssh-keys).
 
 * Make sure you are in the home directory. You should see this `~`. 
 
-* See if you have a .ssh directory. Typing `ls -la` will show you all the hidden files. If you don't even have a .ssh directory, you can make it with `mkdir .ssh`
+* See if you have a .ssh directory. Typing `ls -la` will show you all the hidden files. If you don't have a .ssh directory, you can make it with `mkdir .ssh`
 
-* Now we need to generate the SSH key, `ssh-keygen -t rsa -C "your_email@example.com"`. (Enter the same email address that you used to set up your github account between the quotation marks.)
+* Now we need to generate the SSH key. Type `ssh-keygen -t rsa -C "your_email@example.com"` into your command line. (Replace that email address with the email address that you used to set up your github account.)
 
 * You'll get prompted to type the password to your computer twice (the letters won't actually show up when you type. Don't worry, it's just for security purposes).
 
