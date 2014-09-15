@@ -75,7 +75,7 @@ An SSH key is how github can identify you without you having to enter your usern
 
 * See if you have a .ssh directory. Typing `ls -la` will show you all the hidden files. If you don't have a .ssh directory, you can make it with `mkdir .ssh`
 
-* Now we need to generate the SSH key. Type `ssh-keygen -t rsa -C "your_email@example.com"` into your command line. (Replace that email address with the email address that you used to set up your github account.)
+* Now we need to generate the SSH key. Type `ssh-keygen -t rsa -C "your_email@example.com"` into your command line. (Enter the same email address that you used to set up your github account between the quotation marks.)
 
 * You'll get prompted to type the password to your computer twice (the letters won't actually show up when you type. Don't worry, it's just for security purposes).
 
