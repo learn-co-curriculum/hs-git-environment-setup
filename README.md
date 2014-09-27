@@ -11,7 +11,7 @@ Git and github are very important to the life of a developer. Essentially they h
 
 ###1. Set Up a Github Account
 
-If you are looking at this on Ironboard, then you've alread create an account on [Github](github.com), congrats! This first step was easy. 
+If you are looking at this on Ironboard, then you've already created an account on [Github](github.com). This first step was easy. 
 
 ###2. Download Homebrew
 
