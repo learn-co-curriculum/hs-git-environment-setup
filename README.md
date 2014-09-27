@@ -9,7 +9,7 @@
 
 Git and github are very important to the life of a developer. Essentially they help you save all of your work and share it with other coders. You'll be learning a lot more about git and github, but first let's get you set up.
 
-***If you are using a Chromebook you can ignore these instructions. You already completed all of these steps when you first received your computer.***
+***If you are using a Chromebook, ignore these instructions. You already completed all of these steps when you first received your computer.***
 
 ###1. Set Up a Github Account
 
