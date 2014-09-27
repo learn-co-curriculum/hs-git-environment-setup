@@ -11,7 +11,7 @@ Git and github are very important to the life of a developer. Essentially they h
 
 ###1. Set Up a Github Account
 
-Go to [Github](github.com), and fill out the form to create a username and click signup. You will need to then check your email to verify your new account by clicking a link in an email.
+If you are looking at this on Ironboard, then you've alread create an account on [Github](github.com), congrats! This first step was easy. 
 
 ###2. Download Homebrew
 
