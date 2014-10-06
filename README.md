@@ -19,7 +19,7 @@ If you are looking at this on Ironboard, then you've already created an account 
 
 [Homebrew](http://brew.sh/.) is an awesome package manager that makes downloading lots of software really easy. Download Homebrew by entering:
 
-`ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 into your command line. Once downloading is complete, enter `brew doctor` to make sure that you don't have any conflicts.
 
@@ -65,7 +65,7 @@ A .gitignore file basically tells Github to not keep track of certain files.
 
 * Make sure you are in the home directory. You should see this `~` in your command line. 
 
-* Enter `touch .gitconfig` then `open .gitconfig`
+* Enter `touch .gitignore` then `open .gitignore`
 
 * Copy and paste [Flatiron School's Gitignore](https://github.com/flatiron-school/dotfiles/blob/master/gitignore).
 
