@@ -65,7 +65,7 @@ A .gitignore file basically tells Github to not keep track of certain files.
 
 * Make sure you are in the home directory. You should see this `~` in your command line. 
 
-* Enter `touch .gitconfig` then `open .gitconfig`
+* Enter `touch .gitignore` then `open .gitignore`
 
 * Copy and paste [Flatiron School's Gitignore](https://github.com/flatiron-school/dotfiles/blob/master/gitignore).
 
