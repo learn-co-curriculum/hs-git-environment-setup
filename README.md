@@ -11,6 +11,8 @@ Git and github are very important to the life of a developer. Essentially they h
 
 ***If you are using a Chromebook, ignore these instructions. You will not be using homebrew and you completed the rest of these steps when you received your computer.***
 
+***If you have Yosemite installed on your computer, you will need to manually install the command line tools first, by typing in terminal `xcode-select --install`***
+
 ###1. Set Up a Github Account
 
 If you are looking at this on Ironboard, then you've already created an account on [Github](github.com). This first step was easy. 
