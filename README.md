@@ -9,9 +9,9 @@
 
 Git and GitHub are very important to the productivity of a developer. In a nutshell, they help you save all of your work and share it with other coders. You'll be learning a lot more about git and GitHub, but first let's *git* you all set up. (Forgive the pun!)
 
-***If you are using a Chromebook, ignore these instructions. You will not be using homebrew and you completed the rest of these steps when you received your computer.***
+***If you are using a Chromebook, ignore these instructions. You will not be using Homebrew, and you completed the rest of these steps when you received your computer.***
 
-***If you have Yosemite installed on your computer, you will need to manually install the command line tools first, by typing in terminal `xcode-select --install`***
+***If you have Yosemite installed on your computer, you will need to manually install the command line tools first, by typing into terminal `xcode-select --install`***
 
 ###1. Set Up a GitHub Account
 
