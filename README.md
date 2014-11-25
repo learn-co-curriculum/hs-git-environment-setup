@@ -7,7 +7,7 @@
 
 ## Ready, set, git!
 
-Git and GitHub are very important to the productivity of a developer. In a nutshell, they help you save all of your work and share it with other coders. You'll be learning a lot more about git and GitHub, but first let's **git** you all set up. (Forgive the pun!)
+Git and GitHub are very important to the productivity of a developer. In a nutshell, they help you save all of your work and share it with other coders. You'll be learning a lot more about git and GitHub, but first let's *git* you all set up. (Forgive the pun!)
 
 ***If you are using a Chromebook, ignore these instructions. You will not be using homebrew and you completed the rest of these steps when you received your computer.***
 
