@@ -15,7 +15,7 @@ Git and GitHub are very important to the productivity of a developer. In a nutsh
 
 ###1. Set Up a GitHub Account
 
-If you are looking at this on Ironboard, then you've already created an account on [GitHub](github.com). This first step was easy. 
+If you are looking at this on Learn, then you've already created an account on [GitHub](github.com). This first step was easy. 
 
 ###2. Download Homebrew
 
