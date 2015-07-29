@@ -1,9 +1,4 @@
----
-  tags: git, kids, environment-setup
-  languages: git
-  level: 1
-  type: environment-setup
----
+
 
 ## Ready, set, git!
 
