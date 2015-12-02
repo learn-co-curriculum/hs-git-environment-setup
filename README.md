@@ -54,3 +54,5 @@ A `.gitignore file` basically tells GitHub not to keep track of certain files.
 
 ## Congrats!
 Phew! That was a lot of work, but now you are all set to use git and GitHub. Now, git 'er done!
+
+<a href='https://learn.co/lessons/hs-git-environment-setup' data-visibility='hidden'>View this lesson on Learn.co</a>
